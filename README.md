@@ -1,1 +1,1 @@
-# Ethiopian_Medical_Businesses_Telegram-Insights
+# Ethiopian-Medical-Businesses-Telegram-Insights
